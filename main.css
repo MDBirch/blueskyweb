@@ -1,7 +1,8 @@
 #para1 {
-    font-size: 50px;
+    font-family: 'Audiowide', cursive;
+    font-size: 65px;
     text-align: left;
-    color: black    
+    color: black
 }    
 
 ul li {
@@ -43,5 +44,9 @@ body {
     background-attachment: fixed;
     font-family: 'Titillium Web', sans-serif;
     font-size: larger;
+    margin: 150px;
 }
-
+img {
+    opacity: 0.8;
+    align-content: center;
+}
